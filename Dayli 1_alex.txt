@@ -1,0 +1,11 @@
+Qué hice hoy?
+Revise semana 2 sobre la introduccion a Spring boot, trabaje sobre mi rama alex la creacion de clases desde intelligi 
+y cree la clase empresa, las cargue por el git bash here y directamente desde intelligi al gitHub y realice la prueba pull ruequest
+●	¿Qué haré mañana?
+revision de las grabaciones de clases, revision de las tematicas semana 3, socializar con el equipo y seguir con la contruccion de la 
+clase empresa 
+●	¿Qué impedimentos tengo para desarrollar mis tareas?
+instanciar la clase empresa
+crear los atributos y los metodos de la clase empresa
+
+
